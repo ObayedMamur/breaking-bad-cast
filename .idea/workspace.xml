@@ -15,6 +15,8 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -25,10 +27,17 @@
       <option name="presentableId" value="Default" />
       <updated>1598842968931</updated>
       <workItem from="1598842970537" duration="571000" />
+      <workItem from="1598843584171" duration="520000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2034" y="409" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1598843912999">
+      <screen x="1920" y="0" width="768" height="1326" />
+    </state>
+    <state x="2034" y="409" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040/1920.0.768.1326@1920.0.768.1326" timestamp="1598843912999" />
   </component>
 </project>
